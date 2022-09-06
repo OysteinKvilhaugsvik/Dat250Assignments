@@ -3,6 +3,8 @@
 I encountered no technical problems during installation. But we had allready used JPA in another subject before.
 
 To inspect the database table i set the generation-output-mode to "both". I am unsure if there is a way to also view the data in derby databases.
+
+
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/54100417/188660742-31db4aaa-ca25-4995-9997-699d0be395ef.png">
 
 
