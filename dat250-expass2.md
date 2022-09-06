@@ -12,4 +12,4 @@ To inspect the database table i set the generation-output-mode to "both". I am u
 
 
 All the tests ran smoothly in the end. I had some problems with pushing the project to github from eclipse. I instead had to use github Desktop.
-Link to [repo](https://github.com/OysteinKvilhaugsvik/Dat250Assignment2/tree/main/Dat250Assignment2/eclipselink/experiment-2/src/main/java/no/hvl/dat250/jpa/assignment2)
+Link to [repo](https://github.com/OysteinKvilhaugsvik/Dat250Assignment2/tree/main/Dat250Assignment2/eclipselink/experiment-2/src/main/java/no/hvl/dat250/jpa/assignment2).
