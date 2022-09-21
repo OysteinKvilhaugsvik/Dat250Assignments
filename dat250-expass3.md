@@ -25,7 +25,7 @@ Had some trouble with the validation because the PC im on would not allow me to 
 
 ![image](https://user-images.githubusercontent.com/54100417/191585340-d8305d6c-b30c-4ef3-8a76-c36832a55adb.png)
 
-**Aggregation
+**Aggregation**
 
 Had an error in the Mongosh command line, where the Command never finished. 
 
